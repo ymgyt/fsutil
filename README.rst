@@ -1,8 +1,18 @@
+
+|fsutil| |travis| 
+
+.. |godoc| image:: https://godoc.org/github.com/ymgyt/fsutil?status.svg
+    :target: https://godoc.org/github.com/ymgyt/fsutil
+
+.. |travis| image:: https://travis-ci.org/ymgyt/fsutil.svg?branch=master
+    :target: https://travis-ci.org/ymgyt/fsutil
+
+
 ======
 fsutil
 ======
 
-fs util provides file system utitily functions
+fsutil provides file system utitily functions
 
 
 Usage

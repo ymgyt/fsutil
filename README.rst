@@ -1,5 +1,4 @@
-
-|fsutil| |travis| 
+|godoc| |travis| 
 
 .. |godoc| image:: https://godoc.org/github.com/ymgyt/fsutil?status.svg
     :target: https://godoc.org/github.com/ymgyt/fsutil

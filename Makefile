@@ -4,6 +4,6 @@ test:
 
 .PHONY:
 dependencies:
-	dep version || go -u get github.com/golang/dep/cmd/dep
+	dep version || go get -u get github.com/golang/dep/cmd/dep
 	dep ensure
 
